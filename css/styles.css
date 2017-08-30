@@ -96,6 +96,8 @@ input:focus{
 .rightContainer{
 	width: 50%;
 	height: 100%;
+	position: relative;
+	left: 14px;
 	float: right;
 	background-image: url('../images/image1.jpg');
 	background-size: cover;
@@ -166,7 +168,7 @@ input:focus{
 	border-radius: 50%;
 	border: none;
 	position: relative;
-	left: 46%;
+	left: 47%;
 	bottom: 59%;
 }
 
