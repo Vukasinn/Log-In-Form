@@ -26,6 +26,17 @@ body{
 	background: transparent;
 }
 
+.correct{
+	display: none;
+}
+
+.mistake{
+	position: relative;
+	left: 4%;
+	color: red;
+	font-weight: 200;
+}
+
 .horizontalLine{
 	width: 80%;
 	height: 3px;
