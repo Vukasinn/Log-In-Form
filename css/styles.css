@@ -61,7 +61,7 @@ input:focus{
 	outline: none;
 }
 
-.btn{
+.button{
 	background-color: #16a086;
 	font-weight: bold;
 	width: 35%;
@@ -71,9 +71,57 @@ input:focus{
 	left: 4%;
 }
 
-.btn:hover{
+.button:hover{
 	background-color: #1e8e79;
 	cursor: pointer;
 	transition: all 0.7s;
 
 }
+
+.rightContainer{
+	width: 50%;
+	height: 100%;
+	float: right;
+	background-image: url('../images/image1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.rightHeading{
+	margin: 15px;
+	padding: 35px;
+	font-weight: 400;
+	position: relative;
+	
+	color: white;
+}
+
+.up{
+	text-align: center;
+	position: relative;
+	left: 8%;
+}
+
+.baton{
+	display: block;
+	margin: 35px;
+	display: block;
+	width: 90%;
+	height: 7%;
+	position: relative;
+	left: -3%;
+}
+
+.facebook,.twitter,.google{
+	color: white;
+	font-weight: 500;
+}
+
+.facebook{
+	background: #3b5998;
+}
+
+.twitter{
+	background: #00aced;
+}
+
