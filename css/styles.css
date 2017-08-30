@@ -125,3 +125,21 @@ input:focus{
 	background: #00aced;
 }
 
+.google{
+	background: #d34836;
+}
+
+.google:hover,.facebook:hover,.twitter:hover{
+	cursor: pointer;
+}
+.google:hover{
+	background-color: #af1f0f;
+}
+
+.facebook:hover{
+	background-color: #0c3892;
+}
+
+.twitter:hover{
+	background-color: #0d8aea;
+}
