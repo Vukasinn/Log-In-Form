@@ -99,7 +99,7 @@ input:focus{
 	position: relative;
 	left: 14px;
 	float: right;
-	background-image: url('../images/image1.jpg');
+	background-image: url('../Images/image1.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
